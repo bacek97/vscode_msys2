@@ -1,4 +1,4 @@
-# Unzip VScode and MSYS2
+# Unzip VS Code and MSYS2
 * https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-archive VSCode.zip
 * https://github.com/msys2/msys2-installer/releases/ msys2-base.sfx.exe
 
